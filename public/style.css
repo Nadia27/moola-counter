@@ -1,0 +1,10 @@
+body {
+    background: rgb(255, 159, 67);
+}
+
+.bill-image {
+    margin: 10px; 
+    /* width: 350px; 
+    height: 150px;
+*/
+}
